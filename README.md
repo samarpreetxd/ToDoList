@@ -14,7 +14,7 @@ A simple and efficient ToDo List application built with C# and WinForms. Feature
 ## Installation
 1. Clone the repository:
    ```
-   git clone [https://github.com/samarpreetxd/ToDoList.git](https://github.com/samarpreetxd/ToDoList.git)
+   git clone https://github.com/samarpreetxd/ToDoList.git
    ```
 2. Open the solution file in Visual Studio.
 3. Update the SQL Server connection string in `Form1.cs`:
